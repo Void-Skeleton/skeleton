@@ -1,5 +1,11 @@
 # skeleton
 a brand new coding language!
+# How To Run It?
+1. You have to install g++. It may matter when your g++'s version is different from ours.
+2. Download the code in this repo and run it like this:
+```
+skeleton your_code_file
+```
 # Language Grammar
 ## Variable
 You can define a variable like this:
